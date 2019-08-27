@@ -1,6 +1,6 @@
-# stock_move_purchase_price
+# Show default code in Odoo point of sale
 
-Odoo stock move purchase price
+Show default code in Odoo point of sale
 =======
-Odoo module to get purchase price in stocks moves
+Show default code in Odoo point of sale
 
